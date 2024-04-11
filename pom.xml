@@ -17,6 +17,7 @@
     <module>ManageReturns</module>
     <module>PackingListGenerator</module>
     <module>Notification</module>
+    <module>eureka-server</module>
   </modules>
 
   <properties>
